@@ -34,5 +34,3 @@ const houseToRent = [
     available: true,
   },
 ];
-
-export default houseToRent;
